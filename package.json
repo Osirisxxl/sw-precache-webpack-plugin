@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "del": "^3.0.0",
-    "sw-precache": "^5.2.1",
+    "sw-precache": "git+https://github.com/Osirisxxl/sw-precache#b22249346baed8df92a9c5f7b6f76a29edf6bc49",
     "uglify-es": "^3.3.9"
   },
   "devDependencies": {
